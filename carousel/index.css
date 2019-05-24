@@ -1,0 +1,43 @@
+body{
+	background-color: #d3d3d3;
+}
+header{
+	background: url("aulas.jpg") no-repeat center center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	padding-top: 18rem;
+	padding-bottom: 18rem;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+section i {
+	font-size: 4.5rem;
+}
+
+.imagem {
+     background: url("bg-showcase-1.jpg") no-repeat center center;
+     background-size: cover;
+     height: 100%;
+     width: 100%;
+     padding-top: 12rem;
+     padding-bottom: 12rem;
+}
+footer i {
+     font-size: 2rem;
+} 
+.facebook{
+	color: #3b5998;
+}
+.twitter{
+	color: #00aced;
+}
+.insta{
+	color: #EB155F;
+}

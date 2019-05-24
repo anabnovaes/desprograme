@@ -1,0 +1,36 @@
+body{
+
+	background-color: #DBC4E5;
+}
+
+ol {
+	font-size: 20px;
+	color: #FF72AB;
+	}
+ ul  {
+	font-size: 15px;
+	color: #FF154C;
+	}
+li a {
+	font-size: 15px;
+	font-family: 'Roboto Mono', monospace;
+	color: #595EE8;
+}	
+p {
+	font-size: 15px;
+	font-family: 'Jura',sans-serif;
+
+}
+p em {
+	font-family: 'Homemade Apple', cursive;
+	font-size: 25px;,
+	font-style: oblique;
+
+
+}
+img {
+	margin: : 500px 300px 300px 300px;
+	padding: 15px 25px 80px 15px;
+    width: 15em;
+
+}

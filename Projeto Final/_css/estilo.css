@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'LogoNetflix';
+    src: url("../_fontes/BebasNeue-Regular.otf");
+}
+@font-face {
+    font-family: 'TextosNetflix';
+    src: url("../_fontes/DidactGothic-Regular.ttf");
+}
+
+body{
+    background: #141414;
+    font-family: 'TextosNetflix';
+
+}
+ .titulobestserie{
+color: red;
+font-family: 'LogoNetflix';
+ }
+.navbar-brand {
+    margin-left: 1.5rem;
+    font-size: 2rem;
+}
+.conteudo-principal{
+    border-bottom: 8px solid #222;
+    color: #fff;
+    height: auto;
+    max-height: none;
+    height: 100vh;
+}
